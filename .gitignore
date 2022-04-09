@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Deepcache files, from Snyk Extension for VS Code
+.dccache
